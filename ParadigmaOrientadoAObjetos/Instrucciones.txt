@@ -1,0 +1,14 @@
+El programa requiere para su funcionamiento la libreria (gema) 'Faker'
+dicha libreria genera nombres y numeros aleatoriamente. Dentro de la carpeta se encuentra los archivos que contienen la 
+informacion de la libreria por lo que no es necesario descargar nada.
+
+El programa se ejecuta dentro del programa "Pruebas.rb
+
+En caso botar error hacer lo sgte para instalar el bundler que permiter usar las librerias
+
+    1. En la terminal donde se encuentre el programa escribir:   gem install bundler
+    2. Posteriormente escribir en terminal: bundle init, se creara un archivo llamada "gemfile"
+    3. En dicho documento escribir: gem 'faker'
+    4. Ahora en terminal escribir: bundle install
+ 
+
